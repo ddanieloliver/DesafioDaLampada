@@ -1,3 +1,3 @@
 # DesafioDaLampada
 
-Um mini proojetooo feito com Html, css e javaScript.
+Um mini projeto feito com Html, css e javaScript.
